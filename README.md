@@ -1,8 +1,8 @@
-**Machine Learning Projects Repository**
+# Machine Learning Projects Repository
 
 Welcome to my GitHub repository where I share three machine learning projects for house price prediction, wine quality prediction, and iris flowers classification. I obtained the datasets for these projects from Kaggle.
 
-**Project 1: House Price Prediction**
+## Project 1: House Price Prediction
 
 Overview
 In this project, I have created a machine learning model to predict house prices using linear regression. The Jupyter notebook code includes the following steps:
@@ -17,7 +17,7 @@ In this project, I have created a machine learning model to predict house prices
 
 You can find the code in the `House_Price_Prediction.ipynb` file.
 
-**Project 2: Wine Quality Prediction**
+## Project 2: Wine Quality Prediction
 
 Overview
 This project focuses on predicting the quality of wine using linear regression and random forest. The Jupyter notebook code includes the following steps:
@@ -32,7 +32,7 @@ This project focuses on predicting the quality of wine using linear regression a
 
 You can find the code in the `Wine_Quality_Prediction.ipynb` file.
 
-**Project 3: Iris Flowers Classification**
+## Project 3: Iris Flowers Classification
 
 Overview
 In this project, I have built a model to predict the different species of flowers based on the length of their petals and sepals using logistic regression. The Jupyter notebook code includes the following steps:
